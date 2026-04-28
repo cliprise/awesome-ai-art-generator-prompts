@@ -27,6 +27,16 @@ This repository is built to help people create better AI art with clearer prompt
 
 ---
 
+<!-- CLIPRISE_LINKING_START -->
+## Related Cliprise GitHub resources
+
+- [Best AI image generator resources](https://github.com/cliprise/best-ai-image-generator-resources) - tested rankings, use-case fit, and editing paths for AI image generation.
+- [Awesome AI image generator prompts](https://github.com/cliprise/awesome-ai-image-generator-prompts) - image generation prompts across marketing, product, and social use cases.
+- [Awesome text-to-image AI prompts](https://github.com/cliprise/awesome-text-to-image-ai-prompts) - structured text-to-image briefs and SEO-aware prompt patterns.
+- [Awesome AI thumbnail prompts](https://github.com/cliprise/awesome-ai-thumbnail-prompts) - YouTube and social cover prompts with readable negative space.
+- [Awesome Nano Banana Pro prompts](https://github.com/cliprise/awesome-nano-banana-pro-prompts) - Gemini 3 Pro Image class prompts, text, and layout-heavy use cases.
+<!-- CLIPRISE_LINKING_END -->
+
 ## What this repository is
 
 This repository is a practical AI art prompt and workflow hub for users searching for:
